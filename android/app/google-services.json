@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "137288861141",
+    "project_id": "arsam-fyp",
+    "storage_bucket": "arsam-fyp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137288861141:android:b877c5d5925e854db1295c",
+        "android_client_info": {
+          "package_name": "com.example.social_media_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "137288861141-7buf78n3r5jdm7ufbfdj0sk5nrn5bmej.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.social_media_app",
+            "certificate_hash": "679091384430741ab42599788cad6d5e466b3309"
+          }
+        },
+        {
+          "client_id": "137288861141-q3461rddmgm75h9ovv5qfbctq8a0rbhs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPtHeJlZG-vu9EYXGjq70vnQrhS8b_kEA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "137288861141-q3461rddmgm75h9ovv5qfbctq8a0rbhs.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "137288861141-mtsqnmehs62it22o2hp12dilk7s4vams.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mikkyboy.app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137288861141:android:88c2cd80fe8ac596b1295c",
+        "android_client_info": {
+          "package_name": "com.mikkyboy.social_media_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "137288861141-q3461rddmgm75h9ovv5qfbctq8a0rbhs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPtHeJlZG-vu9EYXGjq70vnQrhS8b_kEA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "137288861141-q3461rddmgm75h9ovv5qfbctq8a0rbhs.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "137288861141-mtsqnmehs62it22o2hp12dilk7s4vams.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mikkyboy.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
