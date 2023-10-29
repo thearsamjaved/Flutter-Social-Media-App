@@ -37,15 +37,11 @@ Star⭐ the repo if you like what you see😉.
 ## Screenshots
 
 <p>
-<img src="ss/w1.png" width="400"/> <img src="ss/w2.png" width="400"/>
-<img src="ss/w3.png" width="400"> <img src="ss/w4.png" width="400">
-<img src="ss/w5.png" width="400"> <img src="ss/w6.png" width="400">
-<img src="ss/w7.png" width="400"> <img src="ss/w8.png" width="400">
-<img src="ss/w9.png" width="400"> <img src="ss/w10.png" width="400">
-<img src="ss/w11.png" width="400"> <img src="ss/w12.png" width="400">
-<img src="ss/w13.png" width="400"> <img src="ss/w14.png" width="400">
-<img src="ss/w15.png" width="400"> <img src="ss/w16.png" width="400">
-<img src="ss/w17.png" width="400"> <img src="ss/w18.png" width="400">
+<img src="ss/1.jpg" width="400"/> <img src="ss/5.jpg" width="400"/>
+<img src="ss/2.jpg" width="400"> <img src="ss/6.jpg" width="400">
+<img src="ss/3.jpg" width="400"> <img src="ss/7.jpg" width="400">
+<img src="ss/4.jpg" width="400"> <img src="ss/8.jpg" width="400">
+
 
 
 </p>
