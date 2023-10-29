@@ -1,4 +1,4 @@
-# University Social Media App  [![Twitter Follow](https://img.shields.io/twitter/follow/CharlyKeleb.svg?style=social)](https://twitter.com/CharlyKeleb)
+# University Social Media App A fork of Sociial Media App of Charly Kelab
 
 University Social Medai aap is fully features social media app for universities with feature to make chatrooms that are public and accessible for everyone
 
@@ -92,10 +92,6 @@ Double check install instructions for both
 - Firestore Plugin
     - https://pub.dartlang.org/packages/cloud_firestore
 
-# What's Next?
-- [] Video Calling
-- [] Reels
-- [] Sending and Uploading Videos(Video Compatibility)
 
 # Note
   - The stories feature is ready, you can write a cloud scheduler function to auto delete stories
