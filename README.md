@@ -1,6 +1,6 @@
-# 🔥🔥 Wooble Social Media App  [![Twitter Follow](https://img.shields.io/twitter/follow/CharlyKeleb.svg?style=social)](https://twitter.com/CharlyKeleb)
+# University Social Media App  [![Twitter Follow](https://img.shields.io/twitter/follow/CharlyKeleb.svg?style=social)](https://twitter.com/CharlyKeleb)
 
-Wooble is a fully functional social media app with multiple features built with flutter and dart.
+University Social Medai aap is fully features social media app for universities with feature to make chatrooms that are public and accessible for everyone
 
 Star⭐ the repo if you like what you see😉.
 
@@ -28,7 +28,8 @@ Star⭐ the repo if you like what you see😉.
     * Change image view from grid layout to feed layout
     * Add your own bio
 * Notifications Feed showing recent likes / comments of your posts + new followers
-* Swipe to delete notification
+* Chatrooms for public discussion on a topic.
+* Swipe to delete the notification
 * Dark Mode Support
 * Stories/Status
 * Used Provider to manage state
